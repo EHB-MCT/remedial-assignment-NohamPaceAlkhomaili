@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985477040795",
+    "project_id": "dev5-tycoon-noham",
+    "storage_bucket": "dev5-tycoon-noham.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985477040795:android:c6fe5cbffd42b37f40543e",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuM6dyLBexBz6twSLHwXHD7Tnp2y_Gex0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
